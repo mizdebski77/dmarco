@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/dmarco/static/js/main.ee23feed.js",
+    "static/js/787.3b2095ae.chunk.js": "/dmarco/static/js/787.3b2095ae.chunk.js",
+    "static/media/newBackground.png": "/dmarco/static/media/newBackground.b38172c4a353f05be768.png",
+    "static/media/Holdt.jpg": "/dmarco/static/media/Holdt.b5cb78e967e6ab103ee2.jpg",
+    "static/media/Never.jpg": "/dmarco/static/media/Never.8f61ee97a9090467a46a.jpg",
+    "static/media/Love.png": "/dmarco/static/media/Love.cfbcdfd7fc14299a220c.png",
+    "static/media/NewRelativebackground.png": "/dmarco/static/media/NewRelativebackground.bef9484364b8f00ff5f2.png",
+    "static/media/dmarco.png": "/dmarco/static/media/dmarco.8f52b4bad1a3116d3f0a.png",
+    "static/media/time.jpg": "/dmarco/static/media/time.ac7964978ae4b4579654.jpg",
+    "static/media/numb.jpg": "/dmarco/static/media/numb.9671ccd72eeafb5f71b7.jpg",
+    "static/media/fallen.jpg": "/dmarco/static/media/fallen.68b87e3f0cc40c7fad2d.jpg",
+    "static/media/youtube.png": "/dmarco/static/media/youtube.18a89d0a6837df7e81cb.png",
+    "static/media/instagram.png": "/dmarco/static/media/instagram.676de4be33549e49cebe.png",
+    "static/media/soundcloud.png": "/dmarco/static/media/soundcloud.dbd2a46a81f5f8f9cae2.png",
+    "static/media/tiktok.png": "/dmarco/static/media/tiktok.607a8077cdd26bc6315f.png",
+    "index.html": "/dmarco/index.html",
+    "main.ee23feed.js.map": "/dmarco/static/js/main.ee23feed.js.map",
+    "787.3b2095ae.chunk.js.map": "/dmarco/static/js/787.3b2095ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ee23feed.js"
+  ]
+}
